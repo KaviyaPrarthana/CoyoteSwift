@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "4df779d4b2f889eb7c082166786975a0"
+build_time: [1569911261, 755039000]
+inputs:
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Model/CommonClass.swift": [1569649891, 185752978]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/SpeedManager.swift": [1569654967, 107779591]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Home/HomeViewController.swift": [1569911230, 999713792]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/History/HistoryViewController.swift": [1569518926, 485155524]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/History/HistoryTableViewCell.swift": [1566378106, 2247918]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/History/CoreDataModel.swift": [1568140571, 317662710]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Others/network_connectivity.swift": [1494498171, 0]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/AppDelegate.swift": [1569739504, 965599279]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Others/BaseViewController.swift": [1568900596, 96620172]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Home/Location.swift": [1566373706, 581731307]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/DerivedData/CoyoteSwift/Build/Intermediates.noindex/CoyoteSwift.build/Debug-iphonesimulator/CoyoteSwift.build/DerivedSources/CoreDataGenerated/CoyoteSwift/CoyoteSwift+CoreDataClass.swift": [1569908311, 585373760]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/DerivedData/CoyoteSwift/Build/Intermediates.noindex/CoyoteSwift.build/Debug-iphonesimulator/CoyoteSwift.build/DerivedSources/CoreDataGenerated/CoyoteSwift/CoyoteSwift+CoreDataProperties.swift": [1569908311, 587529893]
+  "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/DerivedData/CoyoteSwift/Build/Intermediates.noindex/CoyoteSwift.build/Debug-iphonesimulator/CoyoteSwift.build/DerivedSources/CoreDataGenerated/CoyoteSwift/CoyoteSwift+CoreDataModel.swift": [1569908311, 579746530]

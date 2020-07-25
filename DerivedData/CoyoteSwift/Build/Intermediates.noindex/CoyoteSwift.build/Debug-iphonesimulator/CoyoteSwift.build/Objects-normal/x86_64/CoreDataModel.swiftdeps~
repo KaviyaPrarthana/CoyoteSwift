@@ -1,0 +1,447 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CoreDataModel"
+provides-nominal:
+- "11CoyoteSwift13CoreDataModelC"
+provides-member:
+- ["11CoyoteSwift13CoreDataModelC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGFloat"
+- "CastingPrecedence"
+- "CoreDataModel"
+- "Location"
+- !private "NSDate"
+- !private "NSEntityDescription"
+- "NSError"
+- !private "NSManagedObject"
+- "NSManagedObjectContext"
+- "NSObject"
+- "NSPersistentContainer"
+- "SpeedCalculation"
+- "String"
+- "StringLiteralType"
+- !private "distancetype"
+- "fatalError"
+depends-member:
+- !private ["SK", "init"]
+- ["s7CVarArgP", "CoreDataModel"]
+- ["s7CVarArgP", "Location"]
+- !private ["s7CVarArgP", "NSDate"]
+- !private ["s7CVarArgP", "NSEntityDescription"]
+- ["s7CVarArgP", "NSPersistentContainer"]
+- ["s7CVarArgP", "SpeedCalculation"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "container"]
+- !private ["s7CVarArgP", "context"]
+- !private ["s7CVarArgP", "currentLocation"]
+- !private ["s7CVarArgP", "currentSpeed"]
+- !private ["s7CVarArgP", "distancetype"]
+- ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "hasChanges"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insertNewObject"]
+- ["s7CVarArgP", "loadPersistentStores"]
+- !private ["s7CVarArgP", "locationName"]
+- !private ["s7CVarArgP", "save"]
+- !private ["s7CVarArgP", "setValue"]
+- ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "speedCalculation"]
+- ["s7CVarArgP", "speedShared"]
+- ["s7CVarArgP", "userInfo"]
+- !private ["s7CVarArgP", "viewContext"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- ["11CoyoteSwift13CoreDataModelC", "CGFloat"]
+- ["11CoyoteSwift13CoreDataModelC", "CoreDataModel"]
+- ["11CoyoteSwift13CoreDataModelC", "Location"]
+- !private ["11CoyoteSwift13CoreDataModelC", "NSDate"]
+- !private ["11CoyoteSwift13CoreDataModelC", "NSEntityDescription"]
+- ["11CoyoteSwift13CoreDataModelC", "NSError"]
+- !private ["11CoyoteSwift13CoreDataModelC", "NSManagedObject"]
+- ["11CoyoteSwift13CoreDataModelC", "NSManagedObjectContext"]
+- ["11CoyoteSwift13CoreDataModelC", "NSPersistentContainer"]
+- ["11CoyoteSwift13CoreDataModelC", "SpeedCalculation"]
+- ["11CoyoteSwift13CoreDataModelC", "String"]
+- ["11CoyoteSwift13CoreDataModelC", "adddetailsDatabase"]
+- !private ["11CoyoteSwift13CoreDataModelC", "container"]
+- ["11CoyoteSwift13CoreDataModelC", "context"]
+- ["11CoyoteSwift13CoreDataModelC", "coreDataShared"]
+- ["11CoyoteSwift13CoreDataModelC", "deinit"]
+- !private ["11CoyoteSwift13CoreDataModelC", "distancetype"]
+- ["11CoyoteSwift13CoreDataModelC", "fatalError"]
+- ["11CoyoteSwift13CoreDataModelC", "init"]
+- ["11CoyoteSwift13CoreDataModelC", "locationName"]
+- ["11CoyoteSwift13CoreDataModelC", "saveContext"]
+- ["11CoyoteSwift13CoreDataModelC", "speedCalculation"]
+- ["s28CustomDebugStringConvertibleP", "CoreDataModel"]
+- ["s28CustomDebugStringConvertibleP", "Location"]
+- !private ["s28CustomDebugStringConvertibleP", "NSDate"]
+- !private ["s28CustomDebugStringConvertibleP", "NSEntityDescription"]
+- ["s28CustomDebugStringConvertibleP", "NSPersistentContainer"]
+- ["s28CustomDebugStringConvertibleP", "SpeedCalculation"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "container"]
+- !private ["s28CustomDebugStringConvertibleP", "context"]
+- !private ["s28CustomDebugStringConvertibleP", "currentLocation"]
+- !private ["s28CustomDebugStringConvertibleP", "currentSpeed"]
+- !private ["s28CustomDebugStringConvertibleP", "distancetype"]
+- ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "hasChanges"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insertNewObject"]
+- ["s28CustomDebugStringConvertibleP", "loadPersistentStores"]
+- !private ["s28CustomDebugStringConvertibleP", "locationName"]
+- !private ["s28CustomDebugStringConvertibleP", "save"]
+- !private ["s28CustomDebugStringConvertibleP", "setValue"]
+- ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "speedCalculation"]
+- ["s28CustomDebugStringConvertibleP", "speedShared"]
+- ["s28CustomDebugStringConvertibleP", "userInfo"]
+- !private ["s28CustomDebugStringConvertibleP", "viewContext"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "CoreDataModel"]
+- ["s23CustomStringConvertibleP", "Location"]
+- !private ["s23CustomStringConvertibleP", "NSDate"]
+- !private ["s23CustomStringConvertibleP", "NSEntityDescription"]
+- ["s23CustomStringConvertibleP", "NSPersistentContainer"]
+- ["s23CustomStringConvertibleP", "SpeedCalculation"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "container"]
+- !private ["s23CustomStringConvertibleP", "context"]
+- !private ["s23CustomStringConvertibleP", "currentLocation"]
+- !private ["s23CustomStringConvertibleP", "currentSpeed"]
+- !private ["s23CustomStringConvertibleP", "distancetype"]
+- ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "hasChanges"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insertNewObject"]
+- ["s23CustomStringConvertibleP", "loadPersistentStores"]
+- !private ["s23CustomStringConvertibleP", "locationName"]
+- !private ["s23CustomStringConvertibleP", "save"]
+- !private ["s23CustomStringConvertibleP", "setValue"]
+- ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "speedCalculation"]
+- ["s23CustomStringConvertibleP", "speedShared"]
+- ["s23CustomStringConvertibleP", "userInfo"]
+- !private ["s23CustomStringConvertibleP", "viewContext"]
+- !private ["Se", "init"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "init"]
+- ["SQ", "CoreDataModel"]
+- ["SQ", "Location"]
+- !private ["SQ", "NSDate"]
+- !private ["SQ", "NSEntityDescription"]
+- ["SQ", "NSPersistentContainer"]
+- ["SQ", "SpeedCalculation"]
+- !private ["SQ", "String"]
+- ["SQ", ""]
+- !private ["SQ", "container"]
+- !private ["SQ", "context"]
+- !private ["SQ", "currentLocation"]
+- !private ["SQ", "currentSpeed"]
+- !private ["SQ", "distancetype"]
+- ["SQ", "fatalError"]
+- !private ["SQ", "hasChanges"]
+- ["SQ", "init"]
+- !private ["SQ", "insertNewObject"]
+- ["SQ", "loadPersistentStores"]
+- !private ["SQ", "locationName"]
+- !private ["SQ", "save"]
+- !private ["SQ", "setValue"]
+- ["SQ", "shared"]
+- !private ["SQ", "speedCalculation"]
+- ["SQ", "speedShared"]
+- ["SQ", "userInfo"]
+- !private ["SQ", "viewContext"]
+- ["s5ErrorP", "userInfo"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "CoreDataModel"]
+- ["SH", "Location"]
+- !private ["SH", "NSDate"]
+- !private ["SH", "NSEntityDescription"]
+- ["SH", "NSPersistentContainer"]
+- ["SH", "SpeedCalculation"]
+- !private ["SH", "String"]
+- ["SH", ""]
+- !private ["SH", "container"]
+- !private ["SH", "context"]
+- !private ["SH", "currentLocation"]
+- !private ["SH", "currentSpeed"]
+- !private ["SH", "distancetype"]
+- ["SH", "fatalError"]
+- !private ["SH", "hasChanges"]
+- ["SH", "init"]
+- !private ["SH", "insertNewObject"]
+- ["SH", "loadPersistentStores"]
+- !private ["SH", "locationName"]
+- !private ["SH", "save"]
+- !private ["SH", "setValue"]
+- ["SH", "shared"]
+- !private ["SH", "speedCalculation"]
+- ["SH", "speedShared"]
+- ["SH", "userInfo"]
+- !private ["SH", "viewContext"]
+- !private ["11CoyoteSwift8LocationC", "currentLocation"]
+- ["11CoyoteSwift8LocationC", "shared"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "hasChanges"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "insertNewObject"]
+- !private ["So8NSCodingP", "save"]
+- ["So8NSCodingP", "userInfo"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "insertNewObject"]
+- ["So9NSCopyingP", "userInfo"]
+- !private ["So6NSDateC", "init"]
+- !private ["So19NSEntityDescriptionC", "insertNewObject"]
+- ["So7NSErrorC", "userInfo"]
+- !private ["So17NSFastEnumerationP", "insertNewObject"]
+- !private ["So20NSFetchRequestResultP", "setValue"]
+- !private ["So9NSLockingP", "hasChanges"]
+- !private ["So9NSLockingP", "save"]
+- !private ["So15NSManagedObjectC", "setValue"]
+- !private ["So22NSManagedObjectContextC", "hasChanges"]
+- !private ["So22NSManagedObjectContextC", "save"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "CoreDataModel"]
+- ["So8NSObjectC", "Location"]
+- !private ["So8NSObjectC", "NSDate"]
+- !private ["So8NSObjectC", "NSEntityDescription"]
+- ["So8NSObjectC", "NSError"]
+- !private ["So8NSObjectC", "NSManagedObject"]
+- ["So8NSObjectC", "NSManagedObjectContext"]
+- ["So8NSObjectC", "NSPersistentContainer"]
+- ["So8NSObjectC", "SpeedCalculation"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "adddetailsDatabase"]
+- ["So8NSObjectC", "container"]
+- ["So8NSObjectC", "context"]
+- ["So8NSObjectC", "coreDataShared"]
+- !private ["So8NSObjectC", "currentLocation"]
+- !private ["So8NSObjectC", "currentSpeed"]
+- !private ["So8NSObjectC", "distancetype"]
+- ["So8NSObjectC", "fatalError"]
+- !private ["So8NSObjectC", "hasChanges"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "insertNewObject"]
+- ["So8NSObjectC", "loadPersistentStores"]
+- ["So8NSObjectC", "locationName"]
+- !private ["So8NSObjectC", "save"]
+- ["So8NSObjectC", "saveContext"]
+- !private ["So8NSObjectC", "setValue"]
+- ["So8NSObjectC", "shared"]
+- ["So8NSObjectC", "speedCalculation"]
+- ["So8NSObjectC", "speedShared"]
+- ["So8NSObjectC", "userInfo"]
+- !private ["So8NSObjectC", "viewContext"]
+- ["So8NSObjectP", "CoreDataModel"]
+- ["So8NSObjectP", "Location"]
+- !private ["So8NSObjectP", "NSDate"]
+- !private ["So8NSObjectP", "NSEntityDescription"]
+- ["So8NSObjectP", "NSPersistentContainer"]
+- ["So8NSObjectP", "SpeedCalculation"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "container"]
+- !private ["So8NSObjectP", "context"]
+- !private ["So8NSObjectP", "currentLocation"]
+- !private ["So8NSObjectP", "currentSpeed"]
+- !private ["So8NSObjectP", "distancetype"]
+- ["So8NSObjectP", "fatalError"]
+- !private ["So8NSObjectP", "hasChanges"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "insertNewObject"]
+- ["So8NSObjectP", "loadPersistentStores"]
+- !private ["So8NSObjectP", "locationName"]
+- !private ["So8NSObjectP", "save"]
+- !private ["So8NSObjectP", "setValue"]
+- ["So8NSObjectP", "shared"]
+- !private ["So8NSObjectP", "speedCalculation"]
+- ["So8NSObjectP", "speedShared"]
+- ["So8NSObjectP", "userInfo"]
+- !private ["So8NSObjectP", "viewContext"]
+- ["So21NSPersistentContainerC", "init"]
+- ["So21NSPersistentContainerC", "loadPersistentStores"]
+- !private ["So21NSPersistentContainerC", "viewContext"]
+- !private ["So14NSSecureCodingP", "init"]
+- ["So14NSSecureCodingP", "userInfo"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["11CoyoteSwift16SpeedCalculationC", "currentSpeed"]
+- ["11CoyoteSwift16SpeedCalculationC", "speedShared"]
+- !private ["SS", "init"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["11CoyoteSwift9UtilitiesP", "CoreDataModel"]
+- ["11CoyoteSwift9UtilitiesP", "Location"]
+- !private ["11CoyoteSwift9UtilitiesP", "NSDate"]
+- !private ["11CoyoteSwift9UtilitiesP", "NSEntityDescription"]
+- ["11CoyoteSwift9UtilitiesP", "NSPersistentContainer"]
+- ["11CoyoteSwift9UtilitiesP", "SpeedCalculation"]
+- !private ["11CoyoteSwift9UtilitiesP", "String"]
+- ["11CoyoteSwift9UtilitiesP", ""]
+- !private ["11CoyoteSwift9UtilitiesP", "container"]
+- !private ["11CoyoteSwift9UtilitiesP", "context"]
+- !private ["11CoyoteSwift9UtilitiesP", "currentLocation"]
+- !private ["11CoyoteSwift9UtilitiesP", "currentSpeed"]
+- !private ["11CoyoteSwift9UtilitiesP", "distancetype"]
+- ["11CoyoteSwift9UtilitiesP", "fatalError"]
+- !private ["11CoyoteSwift9UtilitiesP", "hasChanges"]
+- ["11CoyoteSwift9UtilitiesP", "init"]
+- !private ["11CoyoteSwift9UtilitiesP", "insertNewObject"]
+- ["11CoyoteSwift9UtilitiesP", "loadPersistentStores"]
+- !private ["11CoyoteSwift9UtilitiesP", "locationName"]
+- !private ["11CoyoteSwift9UtilitiesP", "save"]
+- !private ["11CoyoteSwift9UtilitiesP", "setValue"]
+- ["11CoyoteSwift9UtilitiesP", "shared"]
+- !private ["11CoyoteSwift9UtilitiesP", "speedCalculation"]
+- ["11CoyoteSwift9UtilitiesP", "speedShared"]
+- ["11CoyoteSwift9UtilitiesP", "userInfo"]
+- !private ["11CoyoteSwift9UtilitiesP", "viewContext"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CoreDataModel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Location"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSEntityDescription"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NSPersistentContainer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "SpeedCalculation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "container"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "context"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentLocation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentSpeed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "distancetype"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasChanges"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "insertNewObject"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "loadPersistentStores"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "locationName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "save"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setValue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "speedCalculation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "speedShared"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userInfo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewContext"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["11CoyoteSwift12distancetypeV", "type"]
+depends-nominal:
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "11CoyoteSwift13CoreDataModelC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- "s26DefaultStringInterpolationV"
+- !private "SE"
+- "SQ"
+- "s5ErrorP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "11CoyoteSwift8LocationC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So6NSDateC"
+- !private "So19NSEntityDescriptionC"
+- "So7NSErrorC"
+- !private "So17NSFastEnumerationP"
+- !private "So20NSFetchRequestResultP"
+- !private "So9NSLockingP"
+- !private "So15NSManagedObjectC"
+- !private "So22NSManagedObjectContextC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So21NSPersistentContainerC"
+- "So14NSSecureCodingP"
+- !private "Sm"
+- !private "ST"
+- "11CoyoteSwift16SpeedCalculationC"
+- !private "SS"
+- "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "11CoyoteSwift9UtilitiesP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "11CoyoteSwift12distancetypeV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Model/CoyoteSwift-Bridging-Header.h"
+- "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Model/BSProgressSpeedIndicator.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c52841dba503cda0ad082f6c86872ccd"

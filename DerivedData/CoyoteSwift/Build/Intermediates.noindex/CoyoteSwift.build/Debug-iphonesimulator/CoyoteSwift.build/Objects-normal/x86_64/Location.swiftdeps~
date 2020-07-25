@@ -1,0 +1,360 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Location"
+- "SpeedCalculation"
+provides-nominal:
+- "11CoyoteSwift8LocationC"
+- "11CoyoteSwift16SpeedCalculationC"
+provides-member:
+- ["11CoyoteSwift8LocationC", ""]
+- ["11CoyoteSwift16SpeedCalculationC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGFloat"
+- "CLLocationSpeed"
+- "CLPlacemark"
+- "Location"
+- "NSObject"
+- "SpeedCalculation"
+- "String"
+depends-member:
+- ["s18AdditiveArithmeticP", "init"]
+- ["Sa", "init"]
+- !private ["Sa", "subscript"]
+- ["SK", "init"]
+- !private ["SK", "subscript"]
+- ["SB", "init"]
+- ["12CoreGraphics7CGFloatV", "init"]
+- ["So11CLPlacemarkC", "init"]
+- ["s7CVarArgP", "CGFloat"]
+- ["s7CVarArgP", "CLLocationSpeed"]
+- ["s7CVarArgP", "CLPlacemark"]
+- ["s7CVarArgP", "Location"]
+- ["s7CVarArgP", "SpeedCalculation"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "currentLocation"]
+- !private ["s7CVarArgP", "currentSpeed"]
+- !private ["s7CVarArgP", "currentSpeedUnit"]
+- !private ["s7CVarArgP", "difference"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "kmph"]
+- !private ["s7CVarArgP", "placeArray"]
+- !private ["s7CVarArgP", "placeMark"]
+- !private ["s7CVarArgP", "progressspeed"]
+- !private ["s7CVarArgP", "speedLimitVar"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "tempSpeed"]
+- ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- ["SL", "init"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "CGFloat"]
+- ["s28CustomDebugStringConvertibleP", "CLLocationSpeed"]
+- ["s28CustomDebugStringConvertibleP", "CLPlacemark"]
+- ["s28CustomDebugStringConvertibleP", "Location"]
+- ["s28CustomDebugStringConvertibleP", "SpeedCalculation"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "currentLocation"]
+- !private ["s28CustomDebugStringConvertibleP", "currentSpeed"]
+- !private ["s28CustomDebugStringConvertibleP", "currentSpeedUnit"]
+- !private ["s28CustomDebugStringConvertibleP", "difference"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "kmph"]
+- !private ["s28CustomDebugStringConvertibleP", "placeArray"]
+- !private ["s28CustomDebugStringConvertibleP", "placeMark"]
+- !private ["s28CustomDebugStringConvertibleP", "progressspeed"]
+- !private ["s28CustomDebugStringConvertibleP", "speedLimitVar"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "tempSpeed"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "CGFloat"]
+- ["s23CustomStringConvertibleP", "CLLocationSpeed"]
+- ["s23CustomStringConvertibleP", "CLPlacemark"]
+- ["s23CustomStringConvertibleP", "Location"]
+- ["s23CustomStringConvertibleP", "SpeedCalculation"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "currentLocation"]
+- !private ["s23CustomStringConvertibleP", "currentSpeed"]
+- !private ["s23CustomStringConvertibleP", "currentSpeedUnit"]
+- !private ["s23CustomStringConvertibleP", "difference"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "kmph"]
+- !private ["s23CustomStringConvertibleP", "placeArray"]
+- !private ["s23CustomStringConvertibleP", "placeMark"]
+- !private ["s23CustomStringConvertibleP", "progressspeed"]
+- !private ["s23CustomStringConvertibleP", "speedLimitVar"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "tempSpeed"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- ["Se", "init"]
+- !private ["Se", "subscript"]
+- ["Sd", "init"]
+- ["SE", "init"]
+- !private ["SE", "subscript"]
+- ["SQ", "CGFloat"]
+- ["SQ", "CLLocationSpeed"]
+- ["SQ", "CLPlacemark"]
+- ["SQ", "Location"]
+- ["SQ", "SpeedCalculation"]
+- ["SQ", ""]
+- !private ["SQ", "currentLocation"]
+- !private ["SQ", "currentSpeed"]
+- !private ["SQ", "currentSpeedUnit"]
+- !private ["SQ", "difference"]
+- ["SQ", "init"]
+- !private ["SQ", "kmph"]
+- !private ["SQ", "placeArray"]
+- !private ["SQ", "placeMark"]
+- !private ["SQ", "progressspeed"]
+- !private ["SQ", "speedLimitVar"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "tempSpeed"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["SF", "init"]
+- ["SH", "CGFloat"]
+- ["SH", "CLLocationSpeed"]
+- ["SH", "CLPlacemark"]
+- ["SH", "Location"]
+- ["SH", "SpeedCalculation"]
+- ["SH", ""]
+- !private ["SH", "currentLocation"]
+- !private ["SH", "currentSpeed"]
+- !private ["SH", "currentSpeedUnit"]
+- !private ["SH", "difference"]
+- ["SH", "init"]
+- !private ["SH", "kmph"]
+- !private ["SH", "placeArray"]
+- !private ["SH", "placeMark"]
+- !private ["SH", "progressspeed"]
+- !private ["SH", "speedLimitVar"]
+- !private ["SH", "subscript"]
+- !private ["SH", "tempSpeed"]
+- ["11CoyoteSwift8LocationC", "CLLocationSpeed"]
+- ["11CoyoteSwift8LocationC", "CLPlacemark"]
+- ["11CoyoteSwift8LocationC", "Location"]
+- ["11CoyoteSwift8LocationC", "String"]
+- ["11CoyoteSwift8LocationC", "currentLocation"]
+- ["11CoyoteSwift8LocationC", "deinit"]
+- ["11CoyoteSwift8LocationC", "init"]
+- ["11CoyoteSwift8LocationC", "kmph"]
+- ["11CoyoteSwift8LocationC", "placeArray"]
+- ["11CoyoteSwift8LocationC", "placeMark"]
+- ["11CoyoteSwift8LocationC", "shared"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["SM", "init"]
+- !private ["SM", "subscript"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "CLLocationSpeed"]
+- ["So8NSObjectC", "CLPlacemark"]
+- ["So8NSObjectC", "Location"]
+- ["So8NSObjectC", "SpeedCalculation"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "currentLocation"]
+- ["So8NSObjectC", "currentSpeed"]
+- ["So8NSObjectC", "currentSpeedUnit"]
+- ["So8NSObjectC", "difference"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "kmph"]
+- ["So8NSObjectC", "placeArray"]
+- ["So8NSObjectC", "placeMark"]
+- ["So8NSObjectC", "progressspeed"]
+- ["So8NSObjectC", "shared"]
+- ["So8NSObjectC", "speedLimitVar"]
+- ["So8NSObjectC", "speedShared"]
+- ["So8NSObjectC", "tempSpeed"]
+- ["So8NSObjectP", "CGFloat"]
+- ["So8NSObjectP", "CLLocationSpeed"]
+- ["So8NSObjectP", "CLPlacemark"]
+- ["So8NSObjectP", "Location"]
+- ["So8NSObjectP", "SpeedCalculation"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "currentLocation"]
+- !private ["So8NSObjectP", "currentSpeed"]
+- !private ["So8NSObjectP", "currentSpeedUnit"]
+- !private ["So8NSObjectP", "difference"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "kmph"]
+- !private ["So8NSObjectP", "placeArray"]
+- !private ["So8NSObjectP", "placeMark"]
+- !private ["So8NSObjectP", "progressspeed"]
+- !private ["So8NSObjectP", "speedLimitVar"]
+- !private ["So8NSObjectP", "tempSpeed"]
+- ["So14NSSecureCodingP", "init"]
+- ["Sj", "init"]
+- ["Sk", "init"]
+- !private ["Sk", "subscript"]
+- ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- ["s10SIMDScalarP", "init"]
+- ["ST", "init"]
+- !private ["ST", "subscript"]
+- ["s13SignedNumericP", "init"]
+- ["11CoyoteSwift16SpeedCalculationC", "CGFloat"]
+- ["11CoyoteSwift16SpeedCalculationC", "SpeedCalculation"]
+- ["11CoyoteSwift16SpeedCalculationC", "currentSpeed"]
+- ["11CoyoteSwift16SpeedCalculationC", "currentSpeedUnit"]
+- ["11CoyoteSwift16SpeedCalculationC", "deinit"]
+- ["11CoyoteSwift16SpeedCalculationC", "difference"]
+- ["11CoyoteSwift16SpeedCalculationC", "init"]
+- ["11CoyoteSwift16SpeedCalculationC", "progressspeed"]
+- ["11CoyoteSwift16SpeedCalculationC", "speedLimitVar"]
+- ["11CoyoteSwift16SpeedCalculationC", "speedShared"]
+- ["11CoyoteSwift16SpeedCalculationC", "tempSpeed"]
+- ["Sx", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["11CoyoteSwift9UtilitiesP", "CGFloat"]
+- ["11CoyoteSwift9UtilitiesP", "CLLocationSpeed"]
+- ["11CoyoteSwift9UtilitiesP", "CLPlacemark"]
+- ["11CoyoteSwift9UtilitiesP", "Location"]
+- ["11CoyoteSwift9UtilitiesP", "SpeedCalculation"]
+- ["11CoyoteSwift9UtilitiesP", ""]
+- !private ["11CoyoteSwift9UtilitiesP", "currentLocation"]
+- !private ["11CoyoteSwift9UtilitiesP", "currentSpeed"]
+- !private ["11CoyoteSwift9UtilitiesP", "currentSpeedUnit"]
+- !private ["11CoyoteSwift9UtilitiesP", "difference"]
+- ["11CoyoteSwift9UtilitiesP", "init"]
+- !private ["11CoyoteSwift9UtilitiesP", "kmph"]
+- !private ["11CoyoteSwift9UtilitiesP", "placeArray"]
+- !private ["11CoyoteSwift9UtilitiesP", "placeMark"]
+- !private ["11CoyoteSwift9UtilitiesP", "progressspeed"]
+- !private ["11CoyoteSwift9UtilitiesP", "speedLimitVar"]
+- !private ["11CoyoteSwift9UtilitiesP", "tempSpeed"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- ["s15_CVarArgAlignedP", "init"]
+- ["s22_CVarArgPassedAsDoubleP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CGFloat"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CLLocationSpeed"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CLPlacemark"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Location"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "SpeedCalculation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentLocation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentSpeed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentSpeedUnit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "difference"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kmph"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeArray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeMark"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "progressspeed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "speedLimitVar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tempSpeed"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "Sa"
+- "SK"
+- "SB"
+- "12CoreGraphics7CGFloatV"
+- "So11CLPlacemarkC"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "Sd"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "SF"
+- "SH"
+- "11CoyoteSwift8LocationC"
+- "s25LosslessStringConvertibleP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "Sj"
+- "Sk"
+- "Sm"
+- "s10SIMDScalarP"
+- "ST"
+- "s13SignedNumericP"
+- "11CoyoteSwift16SpeedCalculationC"
+- "Sx"
+- "s20TextOutputStreamableP"
+- "11CoyoteSwift9UtilitiesP"
+- "s14_ArrayProtocolP"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Model/CoyoteSwift-Bridging-Header.h"
+- "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Model/BSProgressSpeedIndicator.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ac5b582b9222e7d3efd8c7d0d7af4114"

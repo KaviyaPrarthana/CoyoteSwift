@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "90"; ObjectID = "0e1-bj-Coj"; */
+"0e1-bj-Coj.text" = "90";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "7Pv-sF-PnI"; */
+"7Pv-sF-PnI.text" = "0";
+
+/* Class = "UILabel"; text = "mph"; ObjectID = "8Jj-yd-l9s"; */
+"8Jj-yd-l9s.text" = "mph";
+
+/* Class = "UIButton"; normalTitle = "kmph"; ObjectID = "Aja-O8-ueK"; */
+"Aja-O8-ueK.normalTitle" = "kmph";
+
+/* Class = "UILabel"; text = "km/hr"; ObjectID = "BKx-Ta-1Md"; */
+"BKx-Ta-1Md.text" = "km/hr";
+
+/* Class = "UILabel"; text = "km/hr"; ObjectID = "Ew1-tC-bSh"; */
+"Ew1-tC-bSh.text" = "km/hr";
+
+/* Class = "UISegmentedControl"; VeR-Jj-Uon.segmentTitles[0] = "Speed"; ObjectID = "VeR-Jj-Uon"; */
+"VeR-Jj-Uon.segmentTitles[0]" = "Speed";
+
+/* Class = "UISegmentedControl"; VeR-Jj-Uon.segmentTitles[1] = "Summary"; ObjectID = "VeR-Jj-Uon"; */
+"VeR-Jj-Uon.segmentTitles[1]" = "Summary";
+
+/* Class = "UILabel"; text = "SpeedLimit"; ObjectID = "WZb-MB-KjX"; */
+"WZb-MB-KjX.text" = "SpeedLimit";
+
+/* Class = "UIButton"; normalTitle = "mph"; ObjectID = "Ywt-jX-KWF"; */
+"Ywt-jX-KWF.normalTitle" = "mph";
+
+/* Class = "UILabel"; text = "OOty"; ObjectID = "bCO-38-8br"; */
+"bCO-38-8br.text" = "OOty";
+
+/* Class = "UILabel"; text = "Coimbatore"; ObjectID = "emv-9L-xQu"; */
+"emv-9L-xQu.text" = "Coimbatore";
+
+/* Class = "UILabel"; text = "12 may 2019/ 15:05"; ObjectID = "gsg-cT-RdC"; */
+"gsg-cT-RdC.text" = "12 may 2019/ 15:05";
+
+/* Class = "UILabel"; text = "80"; ObjectID = "vxG-x4-PIs"; */
+"vxG-x4-PIs.text" = "80";

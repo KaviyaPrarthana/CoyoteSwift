@@ -1,0 +1,304 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Utilities"
+provides-nominal:
+- "11CoyoteSwift9UtilitiesP"
+- "So8NSObjectC"
+- "So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO"
+provides-member:
+- ["11CoyoteSwift9UtilitiesP", ""]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "&&"
+- "=="
+- !private "AF_INET"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "MemoryLayout"
+- "NSObject"
+- !private "SCNetworkReachabilityCreateWithAddress"
+- !private "SCNetworkReachabilityFlags"
+- !private "SCNetworkReachabilityGetFlags"
+- !private "UInt8"
+- "Utilities"
+- !private "sa_family_t"
+- !private "sockaddr"
+- !private "sockaddr_in"
+- !private "withUnsafePointer"
+- !private "||"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "AF_INET"]
+- !private ["s7CVarArgP", "MemoryLayout"]
+- !private ["s7CVarArgP", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["s7CVarArgP", "SCNetworkReachabilityGetFlags"]
+- !private ["s7CVarArgP", "UInt8"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "sa_family_t"]
+- !private ["s7CVarArgP", "sockaddr"]
+- !private ["s7CVarArgP", "sockaddr_in"]
+- !private ["s7CVarArgP", "withMemoryRebound"]
+- !private ["s7CVarArgP", "withUnsafePointer"]
+- !private ["SL", "init"]
+- !private ["SL", "withMemoryRebound"]
+- !private ["s28CustomDebugStringConvertibleP", "AF_INET"]
+- !private ["s28CustomDebugStringConvertibleP", "MemoryLayout"]
+- !private ["s28CustomDebugStringConvertibleP", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["s28CustomDebugStringConvertibleP", "SCNetworkReachabilityGetFlags"]
+- !private ["s28CustomDebugStringConvertibleP", "UInt8"]
+- !private ["s28CustomDebugStringConvertibleP", "sa_family_t"]
+- !private ["s28CustomDebugStringConvertibleP", "sockaddr"]
+- !private ["s28CustomDebugStringConvertibleP", "sockaddr_in"]
+- !private ["s28CustomDebugStringConvertibleP", "withMemoryRebound"]
+- !private ["s28CustomDebugStringConvertibleP", "withUnsafePointer"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "withMemoryRebound"]
+- !private ["s23CustomStringConvertibleP", "AF_INET"]
+- !private ["s23CustomStringConvertibleP", "MemoryLayout"]
+- !private ["s23CustomStringConvertibleP", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["s23CustomStringConvertibleP", "SCNetworkReachabilityGetFlags"]
+- !private ["s23CustomStringConvertibleP", "UInt8"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "sa_family_t"]
+- !private ["s23CustomStringConvertibleP", "sockaddr"]
+- !private ["s23CustomStringConvertibleP", "sockaddr_in"]
+- !private ["s23CustomStringConvertibleP", "withUnsafePointer"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- ["SQ", "=="]
+- !private ["SQ", "AF_INET"]
+- !private ["SQ", "MemoryLayout"]
+- !private ["SQ", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["SQ", "SCNetworkReachabilityGetFlags"]
+- !private ["SQ", "UInt8"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "connectionOnDemand"]
+- !private ["SQ", "connectionOnTraffic"]
+- !private ["SQ", "connectionRequired"]
+- !private ["SQ", "contains"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "interventionRequired"]
+- !private ["SQ", "isWWAN"]
+- !private ["SQ", "notReachable"]
+- !private ["SQ", "reachable"]
+- !private ["SQ", "reachableViaWWAN"]
+- !private ["SQ", "reachableViaWiFi"]
+- !private ["SQ", "sa_family_t"]
+- !private ["SQ", "sockaddr"]
+- !private ["SQ", "sockaddr_in"]
+- !private ["SQ", "withMemoryRebound"]
+- !private ["SQ", "withUnsafePointer"]
+- !private ["s25ExpressibleByArrayLiteralP", "connectionOnDemand"]
+- !private ["s25ExpressibleByArrayLiteralP", "connectionOnTraffic"]
+- !private ["s25ExpressibleByArrayLiteralP", "connectionRequired"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "interventionRequired"]
+- !private ["s25ExpressibleByArrayLiteralP", "isWWAN"]
+- !private ["s25ExpressibleByArrayLiteralP", "reachable"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["SH", "=="]
+- !private ["SH", "AF_INET"]
+- !private ["SH", "MemoryLayout"]
+- !private ["SH", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["SH", "SCNetworkReachabilityGetFlags"]
+- !private ["SH", "UInt8"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- !private ["SH", "notReachable"]
+- !private ["SH", "reachableViaWWAN"]
+- !private ["SH", "reachableViaWiFi"]
+- !private ["SH", "sa_family_t"]
+- !private ["SH", "sockaddr"]
+- !private ["SH", "sockaddr_in"]
+- !private ["SH", "withMemoryRebound"]
+- !private ["SH", "withUnsafePointer"]
+- !private ["s6HasherV", "combine"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s12MemoryLayoutO", "size"]
+- !private ["So8NSObjectC", "AF_INET"]
+- !private ["So8NSObjectC", "MemoryLayout"]
+- ["So8NSObjectC", "ReachabilityStatus"]
+- !private ["So8NSObjectC", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["So8NSObjectC", "SCNetworkReachabilityFlags"]
+- !private ["So8NSObjectC", "SCNetworkReachabilityGetFlags"]
+- !private ["So8NSObjectC", "UInt8"]
+- ["So8NSObjectC", "currentReachabilityStatus"]
+- ["So8NSObjectC", "deinit"]
+- !private ["So8NSObjectC", "sa_family_t"]
+- !private ["So8NSObjectC", "sockaddr"]
+- !private ["So8NSObjectC", "sockaddr_in"]
+- !private ["So8NSObjectC", "withUnsafePointer"]
+- !private ["So8NSObjectP", "AF_INET"]
+- !private ["So8NSObjectP", "MemoryLayout"]
+- !private ["So8NSObjectP", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["So8NSObjectP", "SCNetworkReachabilityGetFlags"]
+- !private ["So8NSObjectP", "UInt8"]
+- !private ["So8NSObjectP", "sa_family_t"]
+- !private ["So8NSObjectP", "sockaddr"]
+- !private ["So8NSObjectP", "sockaddr_in"]
+- !private ["So8NSObjectP", "withUnsafePointer"]
+- !private ["Sj", "init"]
+- !private ["s9OptionSetP", "connectionOnDemand"]
+- !private ["s9OptionSetP", "connectionOnTraffic"]
+- !private ["s9OptionSetP", "connectionRequired"]
+- !private ["s9OptionSetP", "contains"]
+- !private ["s9OptionSetP", "interventionRequired"]
+- !private ["s9OptionSetP", "isWWAN"]
+- !private ["s9OptionSetP", "reachable"]
+- !private ["SY", "connectionOnDemand"]
+- !private ["SY", "connectionOnTraffic"]
+- !private ["SY", "connectionRequired"]
+- !private ["SY", "contains"]
+- !private ["SY", "interventionRequired"]
+- !private ["SY", "isWWAN"]
+- !private ["SY", "reachable"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "=="]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "__derived_enum_equals"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "_rawHashValue"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "deinit"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "hash"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "hashValue"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "notReachable"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "reachableViaWWAN"]
+- ["So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO", "reachableViaWiFi"]
+- !private ["So26SCNetworkReachabilityFlagsV", "connectionOnDemand"]
+- !private ["So26SCNetworkReachabilityFlagsV", "connectionOnTraffic"]
+- !private ["So26SCNetworkReachabilityFlagsV", "connectionRequired"]
+- !private ["So26SCNetworkReachabilityFlagsV", "contains"]
+- !private ["So26SCNetworkReachabilityFlagsV", "interventionRequired"]
+- !private ["So26SCNetworkReachabilityFlagsV", "isWWAN"]
+- !private ["So26SCNetworkReachabilityFlagsV", "reachable"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["s10SetAlgebraP", "connectionOnDemand"]
+- !private ["s10SetAlgebraP", "connectionOnTraffic"]
+- !private ["s10SetAlgebraP", "connectionRequired"]
+- !private ["s10SetAlgebraP", "contains"]
+- !private ["s10SetAlgebraP", "interventionRequired"]
+- !private ["s10SetAlgebraP", "isWWAN"]
+- !private ["s10SetAlgebraP", "reachable"]
+- !private ["Sx", "init"]
+- !private ["Sx", "withMemoryRebound"]
+- !private ["s5UInt8V", "init"]
+- !private ["SP", "withMemoryRebound"]
+- !private ["SU", "init"]
+- !private ["11CoyoteSwift9UtilitiesP", "AF_INET"]
+- !private ["11CoyoteSwift9UtilitiesP", "MemoryLayout"]
+- !private ["11CoyoteSwift9UtilitiesP", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["11CoyoteSwift9UtilitiesP", "SCNetworkReachabilityGetFlags"]
+- !private ["11CoyoteSwift9UtilitiesP", "UInt8"]
+- ["11CoyoteSwift9UtilitiesP", ""]
+- !private ["11CoyoteSwift9UtilitiesP", "sa_family_t"]
+- !private ["11CoyoteSwift9UtilitiesP", "sockaddr"]
+- !private ["11CoyoteSwift9UtilitiesP", "sockaddr_in"]
+- !private ["11CoyoteSwift9UtilitiesP", "withUnsafePointer"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "withMemoryRebound"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AF_INET"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MemoryLayout"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SCNetworkReachabilityGetFlags"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UInt8"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sa_family_t"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sockaddr"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sockaddr_in"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "withUnsafePointer"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s8_PointerP", "withMemoryRebound"]
+- !private ["s14_StringElementP", "init"]
+- !private ["So11sockaddr_inV", "init"]
+- !private ["So11sockaddr_inV", "sin_family"]
+- !private ["So11sockaddr_inV", "sin_len"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "s6HasherV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s12MemoryLayoutO"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sj"
+- !private "s9OptionSetP"
+- !private "SY"
+- "So8NSObjectC11CoyoteSwiftE18ReachabilityStatusO"
+- !private "So26SCNetworkReachabilityFlagsV"
+- !private "s10SIMDScalarP"
+- !private "s10SetAlgebraP"
+- !private "Sx"
+- !private "s5UInt8V"
+- !private "SP"
+- !private "SU"
+- "11CoyoteSwift9UtilitiesP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- !private "s14_StringElementP"
+- !private "So11sockaddr_inV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Model/CoyoteSwift-Bridging-Header.h"
+- "/Users/KaviyaPrarthana/Desktop/CoyoteSwift/CoyoteSwift/Model/BSProgressSpeedIndicator.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4ad4e7878923e8339e8d67c76400cb46"
