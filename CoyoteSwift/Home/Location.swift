@@ -16,7 +16,7 @@ struct Detail {
    
     let shared = Location.shared
     var location : String? = ""
-    var speedCalculator : SpeedCalculation? = nil
+    var speedCalculator : SpeedCalculation? = SpeedCalculation(currentSpeed: 0.0, currentSpeedUnit: "", dateString: "", maxSpeed: "", drivingSpeed: "  ")
     
     init (location : String = "", speedCalculator: SpeedCalculation = SpeedCalculation(currentSpeed: 0.0, currentSpeedUnit: "", dateString: "", maxSpeed: "", drivingSpeed: "")){
         self.location = location

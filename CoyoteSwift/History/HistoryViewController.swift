@@ -129,10 +129,10 @@ class HistoryViewController: UIViewController, UITableViewDataSource, UITableVie
        self.detailList = Detail(location: place, speedCalculator: SpeedCalculation(currentSpeed: 0.0 , currentSpeedUnit: currentSpeedUnit, dateString: dateString, maxSpeed: maxSpeed, drivingSpeed:drivingSpeed))
 
       self.detailListArray.append(self.detailList)
+       
         self.detailListArray = self.detailListArray.sorted(by: {
-            $0.dateString.compare($1.dateString) == .orderedDescending
-        })
-     
+    $0.self.speedCalculator!.dateString.compare($1.self.speedCalculator!.dateString) == .orderedDescending
+               })
         }
       }
 
@@ -154,7 +154,7 @@ class HistoryViewController: UIViewController, UITableViewDataSource, UITableVie
               
         self.detailListArray.append(self.detailList)
         self.detailListArray = self.detailListArray.sorted(by: {
-                   $0.dateString.compare($1.dateString) == .orderedDescending
+    $0.self.speedCalculator!.dateString.compare($1.self.speedCalculator!.dateString) == .orderedDescending
                })
             
         DispatchQueue.main.async{
